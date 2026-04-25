@@ -77,3 +77,5 @@ Possible extensions: multiple sensors or a camera for richer detection, wireless
 ## Course context
 
 Autonomous Systems (810031-B-6), BSc Cognitive Science & Artificial Intelligence, Tilburg University.
+
+d
