@@ -43,10 +43,12 @@ See `xtinguish.ino` for the full annotated code.
 
 Group project of five. My contributions spanned coding, hardware assembly, debugging, and writeup:
 
--Code: Co-wrote the C++ control logic with the team — flame-detection branching, servo scanning loop, water-pump triggering, and the non-blocking LED blink for the low-water indicator. Reviewed and refined teammates' code during integration.
--Debugging: Tuned flame-sensor threshold values empirically to suppress false positives from ambient IR (especially direct sunlight). Tested debounce timing and helped diagnose servo behaviour during the integration phase.
--Hardware: Helped assemble the physical robot — wiring sensors, mounting components, and verifying connections during build sessions.
--Writeup: Co-authored the final report, particularly the theoretical framing (autonomy, sensor-based decision making, adaptive control) and the discussion section linking implementation choices to the robotics literature.
+- **Code**: Co-wrote the C++ control logic with the team — flame-detection branching, servo scanning loop, water-pump triggering, and the non-blocking LED blink for the low-water indicator. Reviewed and refined teammates' code during integration.
+- **Debugging**: Tuned flame-sensor threshold values empirically to suppress false positives from ambient IR (especially direct sunlight). Tested debounce timing and helped diagnose servo behaviour during the integration phase.
+- **Hardware**: Helped assemble the physical robot — wiring sensors, mounting components, and verifying connections during build sessions.
+- **Writeup**: Co-authored the final report, particularly the theoretical framing (autonomy, sensor-based decision making, adaptive control) and the discussion section linking implementation choices to the robotics literature.
+
+The hardware build was led by Soham (who hosted the components); I worked closely with him and the rest of the team across all phases.
 
 ## Theoretical framing
 
