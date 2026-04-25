@@ -4,6 +4,8 @@ An autonomous embedded robot built on an Arduino Uno that detects and extinguish
 
 Built as a group project for the **Autonomous Systems** course at Tilburg University (2024). Final grade: **9/10**.
 
+See [`src/x_tinguish.ino`](src/x_tinguish.ino) for the full annotated Arduino code.
+
 ## What it does
 
 X-Tinguish continuously rotates its sensor tower to scan its environment for flames. When a fire is detected:
